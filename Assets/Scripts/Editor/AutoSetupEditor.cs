@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEditor;
 using TMPro;
+using MobileTanmak.UI;
 
 namespace MobileTanmak.Editor
 {

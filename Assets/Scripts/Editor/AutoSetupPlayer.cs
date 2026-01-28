@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEditor;
+using MobileTanmak.Player;
 
 namespace MobileTanmak.Editor
 {
